@@ -2,8 +2,6 @@ using Actividad2.dto;
 using Actividad2.gui;
 using Actividad2.logic;
 
-//
-
 namespace Actividad2NUnit
 {
     public class Tests

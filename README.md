@@ -6,4 +6,4 @@ Casos de prueba unitaria sobre métodos de la aplicación para la gestión de l�
 
 ## Ejecución de pruebas
 
-![Ejecución de pruebas](/images/Explorador de pruebas.png)
+![Ejecución de pruebas](/images/Exploradordepruebas.png)
